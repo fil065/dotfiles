@@ -4,7 +4,7 @@ User-specific application configuration is traditionally stored in so called do
 
 ```bash
 #Clone repo into new hidden directory.
-git clone git@github.com:eieioxyz/Beyond-Dotfiles-in-100-Seconds.git ~/.dotfiles
+git clone git@github.com:fil065/dotfiles.git ~/.dotfiles
 
 #Create symlinks in the Home directory to the real files in the repo.
 ln -s ~/.dotfiles/.zshrc ~/.zshrc
